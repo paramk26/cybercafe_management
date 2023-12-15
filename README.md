@@ -1,4 +1,4 @@
 # cybercafe_management
 HELLO
-THE SOLE AIM OF THIS PROJECT IS TO TAKE DATA FROM THE USER VIA PYTHON INTERFACE AND STORE THE DATA IN MYSQL.
-IT PROVIDES A SYSTEMATIC WAY TO STORE DATA AND FURTHER ALLOWS US TO RUN QUERY ACCORDING TO OUR NEEDS.
+THe sole aim of this project is to take data from the usea via python interface and store the data in MYSQL.
+It provides a systematic way to store the data and further allows us to run query according to our needs.
